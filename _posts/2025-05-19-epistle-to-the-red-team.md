@@ -1,8 +1,6 @@
 ---
 title: "An Epistle to the Red Team"
 date: 2025-05-19
-pin: true
-layout: post
 tags: [introduction, epistle, theology, red-team, gospel, doctrine]
 ---
 
