@@ -6,7 +6,7 @@ tags: [terraform, azure, infrastructure, methodology, red team]
 ---
 
 
-> *“Do not despise the day of small beginnings.” — Zechariah 4:10*
+> *Do not despise the day of small beginnings. — Zechariah 4:10*
 
 ---
 
@@ -24,7 +24,7 @@ To ready ourselves for confrontation — both technical and spiritual.
 
 And that begins with **where** and **how** we build.
 
-> *"Unless the LORD builds the house, those who build it labor in vain." — Psalm 127:1*
+> *Unless the LORD builds the house, those who build it labor in vain. — Psalm 127:1*
 
 ---
 
@@ -75,7 +75,7 @@ We considered three primary providers:
 
 We didn’t just choose Azure because it was convenient — we chose it because it represents the principle of **emulation**, not just execution. To test faithfully, we must **build environments that resemble what we seek to refine**.
 
-> *"Be wise as serpents and innocent as doves." — Matthew 10:16*
+> *Be wise as serpents and innocent as doves. — Matthew 10:16*
 
 ---
 
@@ -193,9 +193,9 @@ In **Part II**, we will move from methodology to implementation — from design 
 - Establishing operational hygiene and post-deploy hardening  
 
 This is where the theology of infrastructure meets the theology of execution.  
-**[Part II]()** and **[Part III]()** is not just technical — it is tactical. Missional. Faithful.
+**Part II** and **Part III** is not just technical — it is tactical. Missional. Faithful.
 
-> *"Build it like you're going to breach it. Harden it like you mean it. And deploy it like someone is watching."*
+> *Build it like you're going to breach it. Harden it like you mean it. And deploy it like someone is watching.*
 
 ---
 
