@@ -32,7 +32,7 @@ And that begins with **where** and **how** we build.
 
 In today’s threat landscape, red teamers must build infrastructure with both **precision** and **plausibility**. Cloud providers aren’t just tools — they’re terrain. The environment you operate from influences how you're perceived, how long you persist, and how effectively you emulate real-world adversaries.
 
-![Microsoft vs Amazon vs Google](assets/img/Azure-Infrastructure/AZ-vs-AWS-vs-GCP.png)
+![Microsoft vs Amazon vs Google](/assets/img/Azure-Infrastructure/AZ-vs-AWS-vs-GCP.png)
 
 We considered three primary providers:
 
@@ -123,7 +123,7 @@ The following systems form the foundation of a our red team deployment:
 
 > Note: Not all infrastrucutre are the same. Make appropriate and scaled decisions that reflect the light of your team's needs.
 
-![Red Team Infrastructure via Azure](assets/img/Azure-Infrastructure/Azure-Network-Diagram.png)
+![Red Team Infrastructure via Azure](/assets/img/Azure-Infrastructure/Azure-Network-Diagram.png)
 
 ---
 
@@ -193,7 +193,7 @@ In **Part II**, we will move from methodology to implementation — from design 
 - Establishing operational hygiene and post-deploy hardening  
 
 This is where the theology of infrastructure meets the theology of execution.  
-**[Part II](_posts/2025-06-15-Red-Team-Infrastructure-Par-11.md)** and **[Part III](_posts/2025-06-15-Red-Team-Infrastructure-Part-11I.md)** is not just technical — it is tactical. Missional. Faithful.
+**[Part II]()** and **[Part III]()** is not just technical — it is tactical. Missional. Faithful.
 
 > *"Build it like you're going to breach it. Harden it like you mean it. And deploy it like someone is watching."*
 
