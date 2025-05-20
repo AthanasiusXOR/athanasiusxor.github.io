@@ -8,8 +8,9 @@ on:
       - .gitignore
       - README.md
       - LICENSE
-
-  # Allows you to run this workflow manually from the Actions tab
+  schedule:
+    - cron: '0 5 * * *'
+    
   workflow_dispatch:
 
 permissions:
