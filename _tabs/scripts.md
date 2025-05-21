@@ -41,5 +41,4 @@ Below are operational scripts and Terraform files used to automate red team infr
 > 🛡️ **Use with authorization.** These scripts are intended for lawful red team assessments only.
 
 **AthanasiusXOR**  
-
 **Contra Mundum. Code Obscurum.**
