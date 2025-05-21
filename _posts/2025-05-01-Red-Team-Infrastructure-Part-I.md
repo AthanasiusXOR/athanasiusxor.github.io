@@ -10,6 +10,13 @@ tags: [terraform, azure, infrastructure, methodology, red team]
 
 ---
 
+> ⚠️ **Use With Integrity**  
+All techniques shown are for authorized environments only.  
+We pursue **righteous intrusion** — not reckless exploitation.  
+> *“Abstain from every form of evil.” — 1 Thessalonians 5:22*
+
+---
+
 ## Introduction: Building with Conviction
 
 Before the first payload is launched or the first beacon configured, there must be a blueprint — not just of code, but of conviction.
