@@ -9,6 +9,13 @@ tags: [terraform, deployment, automation, red team, cloud]
 
 ---
 
+> ⚠️ **Use With Integrity**  
+All techniques shown are for authorized environments only.  
+We pursue **righteous intrusion** — not reckless exploitation.  
+> *“Abstain from every form of evil.” — 1 Thessalonians 5:22*
+
+---
+
 ## I. Introduction: From Blueprint to Build
 
 This is **Part II** of our Azure Infrastructure series. If **[Part I](https://nicenesecurity.com/posts/Red-Team-Infrastructure-Part-I/)** laid the theological and tactical groundwork, **Part II** is where we bring it to life. As a reminder, below is a rudimentary outline of the network that we will deploy with Terraform.
