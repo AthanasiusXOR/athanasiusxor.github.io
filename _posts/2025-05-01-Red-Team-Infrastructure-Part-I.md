@@ -179,7 +179,7 @@ In **Part II** we will walk through each of these files and discuss how they are
 
 The infrastructure is drawn. The purpose is clear. But intentions must become execution.
 
-In **Part II**, we will move from methodology to implementation — from design to deployment — walking through every command, configuration, and customization required to build FAST infrastructure with both stealth and conviction.
+In **[Part II](https://nicenesecurity.com/posts/Red-Team-Infrastructure-Part-II/)**, we will move from methodology to implementation — from design to deployment — walking through every command, configuration, and customization required to build FAST infrastructure with both stealth and conviction.
 
 > *“Commit your work to the LORD, and your plans will be established.” — Proverbs 16:3*
 
@@ -193,7 +193,7 @@ In **Part II**, we will move from methodology to implementation — from design 
 - Establishing operational hygiene and post-deploy hardening  
 
 This is where the theology of infrastructure meets the theology of execution.  
-**Part II** and **Part III** is not just technical — it is tactical. Missional. Faithful.
+**[Part II](https://nicenesecurity.com/posts/Red-Team-Infrastructure-Part-II/)** and **Part III** is not just technical — it is tactical. Missional. Faithful.
 
 > *Build it like you're going to breach it. Harden it like you mean it. And deploy it like someone is watching.*
 
