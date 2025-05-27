@@ -1,6 +1,6 @@
 ---
 title: "Azure Terraform Infrastructure (Part III): Azure Front Door in Red Team Infrastructure"
-date: 2025-06-01
+date: 2025-05-15
 categories: [red-team, infrastructure, azure, terraform]
 tags: [cobalt-strike, azure-front-door, redirectors, payload-delivery, operational-security]
 ---
