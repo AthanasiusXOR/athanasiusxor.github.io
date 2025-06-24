@@ -1,8 +1,8 @@
 ---
 title: "Drawing the Line: Risk and Ethics in Red Team Engagements"
 date: 2025-07-01
-categories: \[red-team, theology, ethics, risk-analysis]
-tags: \[ethics, red team, risk, theology, infosec, scripture]
+categories: [red-team, theology, ethics, risk-analysis]
+tags: [ethics, red team, risk, theology, infosec, scripture]
 ---
 
 > *"The fear of the LORD is the beginning of wisdom, and the knowledge of the Holy One is insight."* — Proverbs 9:10
