@@ -1,6 +1,6 @@
 ---
 title: "Drawing the Line: Risk and Ethics in Red Team Engagements"
-date: 2025-07-01
+date: 2025-06-01
 categories: [red-team, theology, ethics, risk-analysis]
 tags: [ethics, red team, risk, theology, infosec, scripture]
 ---
