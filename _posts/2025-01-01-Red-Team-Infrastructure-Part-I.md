@@ -1,6 +1,6 @@
 ---
 title: "Azure Terraform Infrastructure (Part I): Methodology and Philosophy"
-date: 2025-05-01
+date: 2025-01-01
 categories: [red-team, infrastructure, azure, terraform]
 tags: [terraform, azure, infrastructure, methodology, red team]
 ---
