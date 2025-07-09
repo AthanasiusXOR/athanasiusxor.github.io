@@ -1,6 +1,6 @@
 ---
 title: "Azure Terraform Infrastructure (Part II): Execution and Deployment"
-date: 2025-05-15
+date: 2025-02-01
 categories: [red-team, infrastructure, azure, terraform]
 tags: [terraform, deployment, automation, red team, cloud]
 ---
