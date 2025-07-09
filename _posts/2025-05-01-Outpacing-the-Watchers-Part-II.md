@@ -1,6 +1,6 @@
 ---
 title: "Outpacing the Watchers (Part II): Loader Crafting and Logical Decrees"
-date: 2025-06-15
+date: 2025-05-01
 categories: [red-team, malware, edr-evasion, theology]
 tags: [dll sideloading, edr, cobalt strike, red team, theology, malware, supralapsarianism, infralapsarianism]
 ---
