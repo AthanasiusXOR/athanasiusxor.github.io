@@ -1,6 +1,6 @@
 ---
 title: "Outpacing the Watchers (Part I): Doctrine and Design"
-date: 2025-06-01
+date: 2025-03-01
 categories: [red-team, malware, edr-evasion, theology]
 tags: [dll sideloading, edr, cobalt strike, supralapsarianism, infralapsarianism]
 ---
