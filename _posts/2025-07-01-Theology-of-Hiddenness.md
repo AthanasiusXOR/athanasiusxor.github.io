@@ -1,6 +1,6 @@
 ---
 title: "Theology of Hiddenness: Stealth, Mystery, and Redemptive Intrusion"
-date: 2025-06-25
+date: 2025-07-01
 categories: [red-team, theology, stealth]
 tags: [stealth, hiddenness, reconnaissance, red team, biblical ethics]
 ---
