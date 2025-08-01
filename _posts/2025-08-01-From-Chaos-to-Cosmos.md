@@ -45,7 +45,7 @@ So too, you must ask: **where will you deploy your lab?**
 > 
 > **Genesis 1:6**
 
-![Azure versus AWS versus GCP](https://github.com/AthanasiusXOR/athanasiusxor.github.io/blob/main/assets/img/From-Chaos-to-Cosmos/AZ-vs-AWS-vs-GCP.png)
+![Azure_vs_AWS_vs_GCP](https://github.com/AthanasiusXOR/athanasiusxor.github.io/blob/main/assets/img/From-Chaos-to-Cosmos/AZ-vs-AWS-vs-GCP.png)
 
 > "_Let there be an expanse in the midst of the waters, and let it separate the waters from the waters..._"
 > 
