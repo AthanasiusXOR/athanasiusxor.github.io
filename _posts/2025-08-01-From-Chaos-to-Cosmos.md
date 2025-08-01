@@ -1,6 +1,6 @@
 ---
 title: From Chaos to Cosmos - Choosing the Cloud and Designing Infrastructure
-date: 2025-09-01
+date: 2025-08-01
 tags: [red-team, doctrine, creation, lab, infrastructure]
 ---
 >
