@@ -41,15 +41,12 @@ So too, you must ask: **where will you deploy your lab?**
 
 ## 1. Surveying the Cloud Wilderness (Azure, AWS, GCP)
 
-> "Let there be an expanse in the midst of the water..."
-> 
-> **Genesis 1:6**
-
-![Azure_vs_AWS_vs_GCP](https://github.com/AthanasiusXOR/athanasiusxor.github.io/blob/main/assets/img/From-Chaos-to-Cosmos/AZ-vs-AWS-vs-GCP.png)
 
 > "_Let there be an expanse in the midst of the waters, and let it separate the waters from the waters..._"
 > 
 > — **Genesis 1:6**
+
+![Azure_vs_AWS_vs_GCP](https://github.com/AthanasiusXOR/athanasiusxor.github.io/blob/main/assets%2Fimg%2FFrom-Chaos-to-Cosmos%2FAZ-vs-AWS-vs-GCP.png)
 
 The first act of creation was **separation**—the formation of realms. God divided light from darkness, sea from sky, waters from dry land. In doing so, He established distinct domains, boundaries, and layers of purpose.
 
