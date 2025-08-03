@@ -46,7 +46,7 @@ So too, you must ask: **where will you deploy your lab?**
 > 
 > — **Genesis 1:6**
 
-![Azure_vs_AWS_vs_GCP](https://github.com/AthanasiusXOR/athanasiusxor.github.io/blob/main/assets%2Fimg%2FFrom-Chaos-to-Cosmos%2FAZ-vs-AWS-vs-GCP.png)
+![Azure_vs_AWS_vs_GCP](https://www.nicenesecurity.com/assets%2Fimg%2FFrom-Chaos-to-Cosmos%2FAZ-vs-AWS-vs-GCP.png)
 
 The first act of creation was **separation**—the formation of realms. God divided light from darkness, sea from sky, waters from dry land. In doing so, He established distinct domains, boundaries, and layers of purpose.
 
@@ -124,7 +124,7 @@ Chaos is not just insecure—it is unrighteous. Creation was structured, repeata
 
 Below is a rough outline of a potential lab topology. 
 
-![Example Diagram](https://github.com/AthanasiusXOR/athanasiusxor.github.io/blob/main/assets/img/From-Chaos-to-Cosmos/Infrastructure-Operations.png)
+![Example Diagram](https://www.nicenesecurity.com/assets/img/From-Chaos-to-Cosmos/Infrastructure-Operations.png)
 
 > Use logical separation between red team operators, C2 infrastructure, and blue team/victim resources. Reflect the boundaries God placed between sea, land, and sky—not to divide maliciously, but to establish peace and order.
 
@@ -148,7 +148,7 @@ You are echoing creation itself.
 > 
 > — **Genesis 1:9**
 
-![IaC](https://github.com/AthanasiusXOR/athanasiusxor.github.io/blob/main/assets/img/From-Chaos-to-Cosmos/Infrastructure-as-code-scheme.png)
+![IaC](https://www.nicenesecurity.com/assets/img/From-Chaos-to-Cosmos/Infrastructure-as-code-scheme.png)
 
 This is the heart of the matter. **Infrastructure as Code (IaC)** is the _“Let there be…”_ of cloud computing. It reflects the nature of divine creation—not built by trial-and-error, not manipulated by hand, but spoken into existence through order, logic, and authority.
 
