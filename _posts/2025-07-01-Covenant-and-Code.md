@@ -86,7 +86,7 @@ These modules act like the priests, Levites, and leaders in Israel — each with
 
 ---
 
-#### 📁 **Codebase Example**
+#### **Codebase Example**
 
 ```
 /modules/
@@ -213,7 +213,6 @@ Like the Mosaic covenant, which was a **shadow of something greater** (Hebrews 8
 
 So while we may build with excellence, let our hearts not be buried in `.tfstate` files or module outputs. Let every provisioned resource remind us of the **greater Provision**: **Jesus Christ**, our High Priest, who entered the **true Holy of Holies once for all** (Hebrews 9:12).
 
-
 ---
 
 ### 4. Inputs, Outputs, Variables: Covenant Conditions
@@ -228,7 +227,7 @@ Terraform mirrors this covenant structure through the use of **inputs** (variabl
 
 Your `variables.tf` file defines the **terms** of engagement — what each module requires in order to function properly. These variables act as **entry points into your infrastructure law**, making expectations clear and explicit.
 
-```hcl
+```
 variable "location" {
   description = "The Azure region to deploy into"
   type        = string
@@ -251,7 +250,7 @@ Just as God did not leave Israel guessing what He required, your moduels should 
 
 Your `outputs.tf` file is where your module **declares its blessings** — what it offers to the rest of the infrastructure. Outputs are how child modules pass data upward or horizontally, enabling **inheritance, visibility, and modular harmony**.
 
-```hcl
+```
 output "vm_public_ip" {
   value       = azurerm_public_ip.main.ip_address
   description = "The public IP address of the deployed VM"
@@ -309,7 +308,6 @@ So as you write variables and outputs, remember — this isn’t just provisioni
 ---
 
 #### Recommended Reading | References
-
 
 - [The Israelites Passing Through the Wilderness – William West](https://fineartamerica.com/featured/the-israelites-passing-through-the-wilderness-preceded-by-the-pillar-of-light-william-west.html)  
   A dramatic painting that visually captures Israel's covenantal journey, led by the pillar of light — ideal for evoking the theological weight of Sinai.
