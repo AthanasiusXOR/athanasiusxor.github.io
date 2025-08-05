@@ -1,6 +1,6 @@
 ---
 title: Covenant and Code - Building Lawful Infrastructure with Terraform
-date: 2025-09-01
+date: 2025-07-01
 tags: [red-team, doctrine, creation, lab, infrastructure]
 ---
 >
