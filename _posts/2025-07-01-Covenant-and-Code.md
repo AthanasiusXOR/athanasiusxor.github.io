@@ -3,7 +3,6 @@ title: Covenant and Code - Building Lawful Infrastructure with Terraform
 date: 2025-07-01
 tags: [red-team, doctrine, creation, lab, infrastructure]
 ---
->
 > ⚠️ The infrastructure, code, and methodologies described in this blog are designed **solely for lawful, educational, and ethical purposes**. This series is intended to help red team professionals, security researchers, and students build controlled environments for testing, training, and strengthening defensive postures.
 >
 > As those made in the image of God and called to walk in integrity, we affirm that knowledge must be governed by wisdom. The Apostle Paul reminds us, _“All things are lawful, but not all things are helpful”_ (1 Cor. 10:23). Accordingly, these tools are not to be used for harm, unauthorized access, or malicious activity of any kind.
