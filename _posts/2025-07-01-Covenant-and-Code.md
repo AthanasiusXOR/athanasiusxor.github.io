@@ -1,8 +1,8 @@
 ---
 title: Covenant and Code - Building Lawful Infrastructure with Terraform
 date: 2025-07-01
-tags: [Red-Team, Doctrine, Creation, Lab, Infrastructure]
-categories: [Red-Team, Creation, Infrastructure, Code, IaC]
+tags: [Red-Team, Doctrine, Creation, Lab, Infrastructure, IaC, Terraform]
+categories: [Red-Team, Infrastructure]
 ---
 > ⚠️ The infrastructure, code, and methodologies described in this blog are designed **solely for lawful, educational, and ethical purposes**. This series is intended to help red team professionals, security researchers, and students build controlled environments for testing, training, and strengthening defensive postures.
 >
