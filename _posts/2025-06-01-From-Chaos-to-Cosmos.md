@@ -2,7 +2,7 @@
 title: From Chaos to Cosmos - Choosing the Cloud and Designing Infrastructure
 date: 2025-06-01
 tags: [Red-Team, Doctrine, Creation, Lab, Infrastructure]
-categories: [Red-Team, Creation, Cloud, Infrastructure]
+categories: [Theology, Creation, Red-Team, Cloud, Infrastructure]
 ---
 >
 > ⚠️ The infrastructure, code, and methodologies described in this blog are designed **solely for lawful, educational, and ethical purposes**. This series is intended to help red team professionals, security researchers, and students build controlled environments for testing, training, and strengthening defensive postures.
