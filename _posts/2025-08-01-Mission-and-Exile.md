@@ -2,6 +2,7 @@
 title: Mission and Exile - Operating a Scalable, Stealthy Lab
 date: 2025-08-01
 tags: [red-team, doctrine, creation, lab, infrastructure]
+categories: [Red-Team, Creation, Infrastructure, IaC, Lab]
 ---
 >
 > ⚠️ The infrastructure, code, and methodologies described in this blog are designed **solely for lawful, educational, and ethical purposes**. This series is intended to help red team professionals, security researchers, and students build controlled environments for testing, training, and strengthening defensive postures.
