@@ -4,7 +4,6 @@ date: 2025-08-15
 tags: [Theology, Red-Team, Gospel, Doctrine, Covenants, Covenantalism]
 categories: [Theology, Hermeneutics]
 ---
-
 > "And beginning with Moses and all the Prophets, he interpreted to them in all the Scriptures the things concerning himself."
 >
 > — *Luke 24:27*
