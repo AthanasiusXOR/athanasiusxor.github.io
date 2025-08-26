@@ -1,5 +1,5 @@
 ---
-title: From Decrees to DLLs (Part I): Payload Theology and the Order of Redemption
+title: From Decrees to DLLs Part I: Payload Theology and the Order of Redemption
 date: 2025-09-01
 tags: [payload development, infralapsarianism, supralapsarianism, red teaming, theology, DLL sideloading, COM hijacking]
 ---
