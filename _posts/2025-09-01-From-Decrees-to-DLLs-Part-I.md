@@ -225,8 +225,8 @@ That’s the voice of both heresy and exploitation.
 
 ## References
 
-- https://d3fend.mitre.org/offensive-technique/attack/T1574.002/
+- [MITRE](https://d3fend.mitre.org/offensive-technique/attack/T1574.002/) overview of DLL Hijacking.
 
-https://attack.mitre.org/techniques/T1574/001/
+ - [MITRE](https://attack.mitre.org/techniques/T1574/001/) overview of DLL Sideloading.
 
-https://specterops.io/blog/2025/05/28/revisiting-com-hijacking/
+- [SpecterOps Blog](https://specterops.io/blog/2025/05/28/revisiting-com-hijacking/) - going over a recent COM Hijacking. 
