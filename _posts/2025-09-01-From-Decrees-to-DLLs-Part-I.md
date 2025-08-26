@@ -1,9 +1,9 @@
 ---
-title: From Decrees to DLLs Part I: Payload Theology and the Order of Redemption
+title: From Decrees to DLLs - Part I - Payload Theology and the Order of Redemption
 date: 2025-09-01
-tags: [payload development, infralapsarianism, supralapsarianism, red teaming, theology, DLL sideloading, COM hijacking]
+tags: [Red-Team, Doctrine, Decrees, Payloads]
+categories: [Payload Development, Infrastructure, DLLs]
 ---
->
 > ⚠️ The infrastructure, code, and methodologies described in this blog are designed **solely for lawful, educational, and ethical purposes**. This series is intended to help red team professionals, security researchers, and students build controlled environments for testing, training, and strengthening defensive postures.
 >
 > As those made in the image of God and called to walk in integrity, we affirm that knowledge must be governed by wisdom. The Apostle Paul reminds us, _“All things are lawful, but not all things are helpful”_ (1 Cor. 10:23). Accordingly, these tools are not to be used for harm, unauthorized access, or malicious activity of any kind.
