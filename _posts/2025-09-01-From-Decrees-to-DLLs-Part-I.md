@@ -1,5 +1,5 @@
 ---
-title: From Decrees to DLLs - Part I - Payload Theology and the Order of Redemption
+title: "From Decrees to DLLs - Part I - Payload Theology and the Order of Redemption"
 date: 2025-09-01
 tags: [Red-Team, Doctrine, Decrees, Payloads]
 categories: [Payload Development, Infrastructure, DLLs]

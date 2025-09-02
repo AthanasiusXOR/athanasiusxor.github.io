@@ -1,6 +1,6 @@
 ---
-title: From Decrees to DLLs - Part II - Typology, Trust, and Payloads
-date: 2025-09-15
+title: "From Decrees to DLLs - Part II - Typology, Trust, and Payloads"
+date: 2025-09-01
 tags: [Red-Team, Doctrine, Decrees, Payloads]
 categories: [Payload Development, Infrastructure, DLLs]
 ---
