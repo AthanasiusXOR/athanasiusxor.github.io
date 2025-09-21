@@ -96,6 +96,10 @@ Antero Guy, with [SpecterOps](https://specterops.io/blog/2025/05/28/revisiting-c
 > —cf. *Herman Bavinck*, **Reformed Dogmatics**
 
 ---
+>
+> ⚠️ A detailed walkthrough of the attack will be published in a subsequent post. For now, however, the information provided here is sufficient to support the discussion and framework outlined in From Decrees to DLLs.
+>
+---
 
 ## Typology: From Eden to Endpoint
 
