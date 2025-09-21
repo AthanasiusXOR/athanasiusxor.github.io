@@ -1,5 +1,5 @@
 ---
-title: About Us
+title: Who We Are
 icon: fas fa-users
 order: 1
 ---
