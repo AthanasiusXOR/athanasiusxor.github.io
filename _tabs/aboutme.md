@@ -1,5 +1,5 @@
 ---
-title: About Me
+title: Who is Athanasius
 icon: fas fa-info-circle
 order: 2
 ---
