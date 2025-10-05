@@ -2,7 +2,7 @@
 title: "Loader Crafting and the Incarnate DLL"
 date: 2025-10-01
 categories: [Red-Team, Malware, EDR-Evasion, Theology]
-tags: [Dll Sideloading, EDR, Cobalt Strike, Red Team, Theology, Malware, Incarnation, Council of Nicaea]
+tags: [Dll Sideloading, EDR, Cobalt Strike, Red Team, Theology, Malware]
 ---
 >
 > ⚠️ The infrastructure, code, and methodologies described in this blog are designed **solely for lawful, educational, and ethical purposes**. This series is intended to help red team professionals, security researchers, and students build controlled environments for testing, training, and strengthening defensive postures.
