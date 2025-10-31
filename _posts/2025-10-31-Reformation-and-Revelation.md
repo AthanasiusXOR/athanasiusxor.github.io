@@ -1,10 +1,10 @@
 ---
-title: "Reformation and Revelation: Light Breaking Through the Veil"
+title: Reformation and Revelation - Light Breaking Through the Veil
 date: 2025-10-31
-categories: [theology, history, reformation]
 tags: [martin-luther, sola-scriptura, justification, church-history, halloween]
+categories: [theology, history, reformation]
 ---
-
+>
 > *“The light shines in the darkness, and the darkness has not overcome it.”
 >
 > — John 1:5*

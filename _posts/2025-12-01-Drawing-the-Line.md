@@ -1,8 +1,8 @@
 ---
-title: "Drawing the Line: Risk and Ethics in Red Team Engagements"
+title: Drawing the Line Risk and Ethics in Red Team Engagements
 date: 2025-12-01
-categories: [red-team, theology, ethics, risk-analysis]
 tags: [ethics, red team, risk, theology, infosec, scripture]
+categories: [red-team, theology, ethics, risk-analysis]
 ---
 >
 > *To all those who labor in the shadows of the digital domain, testing the gates and probing the walls, seeking what is hidden and exposing what is false — grace to you and peace from God our Father and the Lord Jesus Christ.*
