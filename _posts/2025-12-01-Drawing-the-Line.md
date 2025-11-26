@@ -116,4 +116,5 @@ We serve a holy God. Let us red team in a way that reflects that holiness — **
 ---
 
 **AthanasiusXOR**
+
 *Contra Mundum. Code Obscurum.*
