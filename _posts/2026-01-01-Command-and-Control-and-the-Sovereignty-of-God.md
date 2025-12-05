@@ -45,11 +45,13 @@ This three-part series undertakes a dual examination of modern C2s. We survey th
 3. **Part III — Experimental C2s**
     *Focus: Stealth, ordinariness, and the subtlety of **Providence**.*
 
-![Overview](https://www.nicenesecurity.com/assets/img/Command-and-Control/Overview.png)
+![Overview](https://www.nicenesecurity.com/assets/img/Command-and-Control/Overview_Parts.png)
 
 ---
 
 # Part I — Proprietary C2s: The Established Order
+
+![Overview Part I](https://www.nicenesecurity.com/assets/img/Command-and-Control/Overview_Part_1.png)
 
 **Representative tools:** Cobalt Strike, Stage 1, Brute Ratel (commercial offerings)
 
@@ -83,6 +85,8 @@ Because these tools were so visible and reusable, they catalyzed the community�
 
 # Part II — Open-Source C2s: The Age of Reformation
 
+![Overview Part II](https://www.nicenesecurity.com/assets/img/Command-and-Control/Overview_Part_2.png)
+
 **Representative tools:** Sliver, Mythic, Adaptix, Havoc, Merlin, Covenant, others
 
 ### Overview
@@ -114,6 +118,8 @@ Open-source diversity fuels experimentation and accelerates both offense and def
 ---
 
 # Part III — Experimental C2s: Hidden in Plain Sight
+
+![Overview Part III](https://www.nicenesecurity.com/assets/img/Command-and-Control/Overview_Part_3.png)
 
 **Representative techniques:** C2 over Slack/Discord/Teams, GitHub commits, DNS TXT dead-drops, serverless callbacks, mailbox drafts, steganographic callbacks, WebRTC brokers, behavioral/temporal channels
 
