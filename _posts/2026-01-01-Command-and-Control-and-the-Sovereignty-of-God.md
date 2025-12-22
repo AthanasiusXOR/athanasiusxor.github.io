@@ -1,8 +1,8 @@
 ---
-title: "The Ecology of Command-and-Control - A Theological and Tactical Survey of Proprietary, Open-Source, and Experimental C2s"
+title: The Ecology of Command and Control - A Theological and Tactical Survey of Proprietary, Open-Source, and Experimental C2s
 date: 2026-01-01
-categories: [red-team, c2, theology]
 tags: [c2, cobalt-strike, mythic, sliver, adaptix, experimental, theology, providence]
+categories: [red-team, c2, theology]
 ---
 ## ⚠️ Ethical & Legal Disclaimer: Wisdom Governs Knowledge
 
