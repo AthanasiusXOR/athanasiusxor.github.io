@@ -7,14 +7,14 @@ tags: [c2, cobalt-strike, mythic, sliver, adaptix, experimental, theology, provi
 ## ⚠️ Ethical & Legal Disclaimer: Wisdom Governs Knowledge
 
 > ⚠️ The infrastructure, code, and methodologies described in this blog are designed **solely for lawful, educational, and ethical purposes**. This series is intended to help red team professionals, security researchers, and students build controlled environments for testing, training, and strengthening defensive postures.
-
-As those made in the image of God and called to walk in integrity, we affirm that knowledge must be governed by wisdom. The Apostle Paul reminds us, _“All things are lawful, but not all things are helpful”_ (1 Cor. 10:23). Accordingly, these tools are not to be used for harm, unauthorized access, or malicious activity of any kind.
-
-Let it be clear: **this work is to be conducted with a clear conscience before both God and man** (Acts 24:16). Those who weaponize such knowledge outside the bounds of legality and virtue not only violate human law, but grieve the moral law of the Creator Himself.
-
-_“Whatever you do, in word or deed, do everything in the name of the Lord Jesus...”_
-
-— **Colossians 3:17**
+>
+> As those made in the image of God and called to walk in integrity, we affirm that knowledge must be governed by wisdom. The Apostle Paul reminds us, “All things are lawful, but not all things are helpful”_ (1 Cor. 10:23). Accordingly, these tools are not to be used for harm, unauthorized access, or malicious activity of any kind.
+>
+> Let it be clear: **this work is to be conducted with a clear conscience before both God and man** (Acts 24:16). Those who weaponize such knowledge outside the bounds of legality and virtue not only violate human law, but grieve the moral law of the Creator Himself.
+>
+>“Whatever you do, in word or deed, do everything in the name of the Lord Jesus...”
+>
+> — **Colossians 3:17**
 
 # The Ecology of Command-and-Control: A Theological and Tactical Survey
 
