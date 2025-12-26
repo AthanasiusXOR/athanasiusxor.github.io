@@ -128,6 +128,7 @@ Proprietary C2s represent the **"Established Order."** They are the heavy hitter
 >
 > ![MARTIN LUTHER AND THE REFORMATION](https://www.nicenesecurity.com/assets/img/Command-and-Control/The-Reformation.png)
 
+---
 **AthanasiusXOR**
 
 *Contra Mundum. Code Obscurum.*
