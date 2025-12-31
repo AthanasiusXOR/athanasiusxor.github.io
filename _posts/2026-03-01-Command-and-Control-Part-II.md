@@ -15,6 +15,7 @@ categories: [red-team, c2, theology]
 > “Whatever you do, in word or deed, do everything in the name of the Lord Jesus...”
 >
 > — **Colossians 3:17**
+---
 
 # Part II — Open-Source C2s: The Great Reformation
 
@@ -51,7 +52,7 @@ Earlier foundational texts like **Empire** paved the way for modern, modular fra
 * **The Weakness:** Reliance on an interpreter can leave a larger memory footprint and a more predictable "shape" for defensive scanning.
 
 #### 2. Compiled C2s (e.g., Havoc, Sliver): The Self-Contained Gospel
-More recent frameworks have moved toward compiled languages like **Go** or **C++**.
+More recent frameworks have moved toward compiled languages like **Go** (Sliver) or **C++** (Havoc).
 * **The Strength:** Smaller binaries, fewer dependencies, and high performance. Go, in particular, excels at cross-compilation, allowing operators to target multiple operating systems with a single "gospel" (binary).
 * **The Weakness:** Slower development cycles for custom modules and less flexibility for on-the-fly modifications compared to interpreted languages.
 
@@ -59,6 +60,46 @@ More recent frameworks have moved toward compiled languages like **Go** or **C++
 Advanced open-source C2s have moved towards **Remote Procedure Call (RPC)** architectures. This allows operators to build agents in almost *any* language—Rust, Zig, or Nim—as long as it can communicate back to the C2 framework. This is the ultimate expression of the "priesthood," where the agent's form is limited only by the operator's imagination.
 
 ---
+
+### Open-Source Tradecraft: Democratizing the Subversion
+
+While proprietary tools rely on polished, automated routines, Open-Source tradecraft thrives on the ability to "fork the code." The operator isn't just a user; they are a contributor to the subversion. In this "Reformation," the secrets of the high priests are made public, allowing every operator to tailor their tools to the specific environment.
+
+#### 1. Hardware Breakpoints: The Reformation of Hooks
+If the Cathedral uses Indirect Syscalls, the Reformation often utilizes **Hardware Breakpoints (HWBP)**. While many frameworks implement 'HellsGate' or 'HalosGate' to dynamically resolve syscalls, the more elegant approach for bypassing active hooks is using the CPU's own debug registers ($DR0$ through $DR7$).
+
+Instead of overwriting the EDR's hook (which is easily detected by integrity checks), the agent sets a hardware breakpoint on the function it wants to call. 
+
+* **The Result:** When the code executes, the CPU triggers a "Single Step" exception *before* it hits the EDR’s hook. The agent’s exception handler captures this, redirects execution to its own custom code, and avoids the "gatekeeper" entirely. It is a technical "protest" against the forced liturgy of the EDR.
+
+#### 2. Synthetic Stack Pivoting: The New Identity
+In the Open-Source era, we don't just "forge" the ancestry; we pivot to an entirely different lineage. Open-source research—pioneered by innovators like Mariusz Banach—has led to **Synthetic Stack Pivoting**.
+
+Instead of just pushing addresses onto the existing stack (which can still look suspicious), the agent allocates a brand-new, legitimate-looking stack in memory that mimics a real thread.
+
+* **The Deception:** When the agent performs a sensitive operation, it switches the Stack Pointer ($RSP$) to this new, "clean" stack. To an EDR scanner, the thread appears to be executing from a perfectly valid, file-backed location. The "original sin" of the malicious memory remains hidden in a completely different sector of the CPU's memory space.
+
+#### 3. Fluctuating Memory: The Living Sacrifice
+In the Open-Source Reformation, Sleep Masking has evolved into **Memory Fluctuating** (e.g., *ShellcodeFluctuation*). Rather than just XOR-encrypting the memory, Open-Source agents use **Read/Write/Execute (RWX)** transitions to change their very nature.
+
+When the agent sleeps, it doesn't just encrypt its code; it changes the memory protection from **Executable** to **Read-Only**.
+
+* **The Logic:** Most memory scanners prioritize searching for **Executable** memory (where active code lives). By voluntarily "dying" to its executable state during sleep, the agent disappears from the scanner's primary radar. It effectively becomes "dead to the law" of the scanner until it is resurrected by a timer or APC, once again taking on the form of active code.
+
+```
+// The "Reformation" Loop: Changing Memory Protections
+// Transitioning from RWX to RW during sleep to evade scanners.
+func fluctuate(address uintptr, size uintptr, protect uint32) {
+    var oldProtect uint32
+    // Changing memory state to Read/Write while dormant
+    VirtualProtect(address, size, PAGE_READWRITE, &oldProtect)
+    
+    // ... Sleep occurs here ...
+    
+    // Restoring to Execute/Read on wake
+    VirtualProtect(address, size, PAGE_EXECUTE_READ, &oldProtect)
+}
+```
 
 ### The Blue Team Response: From Signatures to Semantic Analysis
 
@@ -86,3 +127,8 @@ The Open-Source C2 Reformation has ushered in an era of unprecedented accessibil
 > In **Part III**, we transition from the shared "Reformation" of the community into the focused realm of **Providence**. Here, we move beyond the public square and into the shadows of bespoke, in-house tradecraft. These are the "unwritten" tools—the surgical instruments crafted for specific missions where silence is the mandate. We will explore how the operator, acting in a state of high stewardship, navigates the deep internals of the machine, mindful that in the absence of public repositories and community signatures, the only witness to the integrity of the craft is the Creator Himself.
 >
 > ![Overview Part 3](https://www.nicenesecurity.com/assets/img/Command-and-Control/Overview_Part_3.png)
+
+---
+**AthanasiusXOR**
+
+*Contra Mundum. Code Obscurum.*

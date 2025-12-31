@@ -15,6 +15,7 @@ categories: [red-team, c2, theology]
 > “Whatever you do, in word or deed, do everything in the name of the Lord Jesus...”
 >
 > — **Colossians 3:17**
+---
 
 # Part I — Proprietary C2s: The Established Order
 
@@ -23,8 +24,6 @@ categories: [red-team, c2, theology]
 > — **1 Corinthians 14:33**
 
 **Representative tools:** [Cobalt Strike (Forta)](https://www.cobaltstrike.com/adversary-simulations-red-team-operations?code=cmp-0000010155&ls=717710011&utm_term=cobalt%20strike&utm_campaign=Brand_lp&utm_source=google&utm_medium=ppc&hsa_acc=8694542909&hsa_cam=17015129669&hsa_grp=131056023570&hsa_ad=682760814160&hsa_src=g&hsa_tgt=kwd-315984070755&hsa_kw=cobalt%20strike&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=17015129669&gbraid=0AAAAAofeg-g2hJVAu0rKyEOnbIpx2sJwN&gclid=CjwKCAiA9aPKBhBhEiwAyz82J8vaHuu1w6v-CqLlvjU6-iceQouGrJMri9r5VvSIhSko_ynG-KoiCBoCgvYQAvD_BwE), [Outflank C2  (formerly Stage 1)](https://www.outflank.nl/products/outflank-security-tooling/), [Brute Ratel](https://bruteratel.com/), and others.
-
-![INSERT IMAGE]()
 
 ### The Centralized Command: The Burden of Institution
 
