@@ -1,5 +1,5 @@
 ---
-title: Part I of the Ecology of Command and Control - A Theological and Tactical Survey of Proprietary C2s
+title: The Ecology of Command and Control - A Theological and Tactical Survey of Proprietary C2s, Part I
 date: 2026-02-01
 tags: [c2, cobalt-strike, mythic, sliver, adaptix, experimental, theology, providence]
 categories: [red-team, c2, theology]
