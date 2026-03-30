@@ -1,5 +1,5 @@
 ---
-title: The Witness: AthanasiusXOR
+title: The Witness - AthanasiusXOR
 icon: fas fa-info-circle
 order: 2
 ---

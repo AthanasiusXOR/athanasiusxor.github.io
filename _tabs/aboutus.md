@@ -1,5 +1,5 @@
 ---
-title: WThe Nicene Standard: Digital Orthodoxy
+title: WThe Nicene Standard - Digital Orthodoxy
 icon: fas fa-users
 order: 1
 ---
