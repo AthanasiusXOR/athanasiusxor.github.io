@@ -19,7 +19,10 @@ permissions:
   pages: write
   id-token: write
 
-# Allow one concurrent deployment
+# This environment variable forces the runner to use Node 24 for all steps
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 concurrency:
   group: "pages"
   cancel-in-progress: true
@@ -30,13 +33,13 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v4 # Updated to v4 (Check for v5/v6 if warnings persist)
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
       - name: Setup Pages
         id: pages
-        uses: actions/configure-pages@v5 # Updated from v4 to v5
+        uses: actions/configure-pages@v5
 
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
@@ -56,7 +59,7 @@ jobs:
             --ignore-urls "/^http:\/\/127.0.0.1/,/^http:\/\/0.0.0.0/,/^http:\/\/localhost/"
 
       - name: Upload site artifact
-        uses: actions/upload-pages-artifact@v3 # Ensure this is at least v3
+        uses: actions/upload-pages-artifact@v3
         with:
           path: "_site${{ steps.pages.outputs.base_path }}"
 
@@ -69,4 +72,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4 # Ensure this is at least v4
+        uses: actions/deploy-pages@v4
