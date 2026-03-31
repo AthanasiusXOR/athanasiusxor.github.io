@@ -3,62 +3,55 @@ title: The Witness - AthanasiusXOR
 icon: fas fa-info-circle
 order: 2
 ---
+# About AthanasiusXOR: Creed, Code, and Truth
 
-# About AthanasiusXOR
-
->
->
-> "Am I now seeking the approval of man, or of God? Or am I trying to please man? If I were still trying to please man, I would not be a servant of Christ.
+> Am I now seeking the approval of man, or of God? Or am I trying to please man? If I were still trying to please man, I would not be a servant of Christ.
 > 
-> ~ **Galatians 1:10**
->
->
+>~ Galatians 1:10
+----
 
-I am **AthanasiusXOR** — Red Team Operator, Malware Artisan, and Witness to the Digital Diaspora.
+I am **AthanasiusXOR**—a Red Team Security Engineer, Malware Artisan, and a Master of Theology (MATS) graduate from **[The Southern Baptist Theological Seminary](https://www.sbts.edu/)**.
 
-I stand at the intersection of the **Creed and the Code**. I do not navigate the silent corridors of the network as a neutral actor, but as an elect exile laboring to reconcile the rigors of Offensive Security with the immutable truths of Historical Orthodoxy.
-
----
-
-## The Vocation: A Ministry of Discernment
-
-I do not view cybersecurity as a neutral trade, but as a **vocation** governed by the mandate to unveil reality. My work is an "Apocalypse"—a revealing of what is hidden.
-
-* **Red Teaming as a Sanctity Audit:** I simulate the adversary to test the "holiness" (the set-apartness) of a system. To find a vulnerability is to perform an act of truth-telling; to report it is to call the architecture to repentance.
-* **Engineering as Stewardship:** Whether crafting custom C2 frameworks or optimizing payloads in Rust and C++, I do so with the precision required of a steward. If the kernel internals are the "Foundations of the Earth," I aim to understand them with the reverence they deserve.
-* **Rejecting the Arianism of Tools:** I refuse to settle for the "appearance of security" (*Homoiousios*). I demand verified, substantive resilience (*Homoousios*), moving past vendor dashboards to the deep tradecraft of the "Same Substance" as the threat.
+I stand at the intersection of the **Creed** and the **Code**. I do not navigate the silent corridors of the network as a neutral actor, but as an elect exile bridging the gap between the world and the heavenly realm. My mission is to bring theological grounding to the network, analyzing attack surfaces and TTPs (Tactics, Techniques, and Procedures) with a mind that is transformed and "not of this world."
 
 ---
 
-## Nicene Security: My Operating Philosophy
+## The Vocation: Bridging the Realms
 
-**Nicene Security** is my field post within the network. It represents a commitment to the "Ancient Paths" in a modern, volatile domain. This framework rests on three pillars:
+As a graduate of Southern Seminary, I view cybersecurity through the lens of historical orthodoxy. My work is not merely a technical trade; it is a **Ministry of Discernment** designed to reconcile the rigors of Offensive Security with the immutable truths of the Gospel.
 
-### 1. The Ethical Absolute
-I reject the shifting "gray hat" ethos of the world. My rules of engagement are bound to the **fear of the Lord**. This ensures total transparency and a refusal to compromise conscience, even when the bypass is successful and the payload is silent.
-
-### 2. Technical Orthodoxy
-Because I answer to a higher Authority, my work must meet a higher standard. I strive for excellence in shellcode and infrastructure, knowing that we are called to work heartily, as for the Lord. "Similar to secure" is a heresy; only the "Actually Secure" honors the Truth.
-
-### 3. Confessional Courage
-I do not partition my faith from my function. In an industry that prizes pluralism and moral neutrality, I stand *Contra Mundum*. I am a Christian first and a security engineer second, providing a stable foundation for ethics that does not drift with the cultural tide.
-
----
-
-## Core Competencies
-
-| Domain | Focus |
-| :--- | :--- |
-| **Red Teaming** | Adversary simulation, stealthy persistence, and "Mini-Apocalypse" operations. |
-| **Malware Dev** | Evasion, custom tooling (C/C++, Rust), and "Skill of the Serpent" tradecraft. |
-| **Theology** | Confessional Reformed standards, Nicene Creedalism, and Technological Ethics. |
-| **Consultancy** | Bridging the gap between technical risk and the moral responsibility of the Steward. |
+* **Red Teaming as a Sanctity Audit:** I simulate the adversary to test the "holiness" (the set-apartness) of a system. To identify a vulnerability is to perform an act of truth-telling; to report it is to call the architecture to repentance.
+* **Analysis Beyond the World:** While the world sees "risk scores" and "compliance," I see **Stewardship**. I analyze the attack surface with the precision of a scholar and the heart of a watchman, recognizing that every digital asset is entrusted to us by the Creator.
+* **Engineering as Technical Orthodoxy:** Whether crafting custom C2 frameworks or optimizing payloads in Rust and C++, I do so with the excellence required of a steward. If the kernel internals are the "Foundations of the Earth," I aim to understand them with the reverence they deserve.
 
 ---
 
 ## Why "AthanasiusXOR"?
 
-The name honors **Athanasius of Alexandria**, the bishop who defended the Truth against a world of compromise. The **XOR** represents the fundamental logic gate—a reminder that in code, as in theology, there is a definitive true and false. 
+The name honors **Athanasius of Alexandria**, the bishop who stood *Contra Mundum* (Against the World) to defend the nature of Christ. 
+
+The **XOR** (Exclusive OR) represents the fundamental logic gate of the operator—a reminder that in code, as in theology, there is no "middle way" between truth and falsehood. It is a commitment to the binary reality of the Light and the Dark. I strive for a theological standard in cybersecurity that refuses to drift with the cultural or ethical tides of the industry.
+
+<div align="center">
+  <img src="https://www.nicenesecurity.com/assets/img/Introductions/Athanasius.jpg" alt="Nicene Security Banner" width="50%" />
+</div>
+
+---
+
+## Core Competencies: The Standard of the Operator
+
+| Domain | Focus |
+| :--- | :--- |
+| **Theological Rigor** | MATS (Southern Seminary), Confessional Reformed Standards, Nicene Creedalism. |
+| **Offensive Engineering** | Red Team operations, stealthy persistence, and "Mini-Apocalypse" unveilings. |
+| **Malware Development** | Evasion tradecraft, custom tooling (C/C++, Rust), and "Skill of the Serpent" logic. |
+| **Digital Stewardship** | Bridging the gap between technical attack surface and the moral responsibility of the Steward. |
+
+---
+
+## The Operating Philosophy
+
+I do not partition my faith from my function. In an industry that prizes moral neutrality, I stand for **Technical Orthodoxy**. Because I answer to a higher Authority, my shellcode must be as honest as my confession. "Similar to secure" is a heresy; only the "Actually Secure" honors the Truth.
 
 I am here to test the gates, expose the shadows, and point toward the only One who is truly Secure.
 
