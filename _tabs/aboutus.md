@@ -3,18 +3,18 @@ title: The Nicene Standard - Digital Orthodoxy
 icon: fas fa-users
 order: 1
 ---
-
 # Nicene Security: Technical Rigor. Confessional Integrity.
 
-> Be watchful, stand firm in the faith, act like men, be strong.
->
-> ~ 1 Corinthians 16:13
+> "Be watchful, stand firm in the faith, act like men, be strong."
+> ~ **1 Corinthians 16:13**
+
+---
 
 **Nicene Security** is a specialized offensive security field-post established at the intersection of technical excellence and historical Christian orthodoxy. Just as the Council of Nicaea sought to define and preserve Truth against distortion, we exist to identify and rectify the technical distortions—the "modern heresies"—that threaten the integrity of the **Digital Diaspora**.
 
 In an industry often characterized by shifting ethics and "Arian" security products—tools that have the appearance of protection but lack the substance of true resilience—Nicene Security offers a definitive alternative: **Security as Stewardship.**
 
-![Nicene Security Banner](https://www.nicenesecurity.com/assets/img/Introductions/NiceneSecurity_Banner.png)
+![Nicene Red Team Emblem](https://www.nicenesecurity.com/assets/img/Nicene_Red_Team.png)
 
 ---
 
@@ -33,6 +33,8 @@ We utilize offensive operations—adversary emulation and red teaming—as a **M
 ## What We Do: Testing the Ramparts
 
 Nicene Security provides elite technical services designed to harden the perimeter and mature the internal posture of institutions, ministries, and businesses navigating the silent corridors of the network.
+
+![The Deep Internals](https://www.nicenesecurity.com/assets/img/Introductions/Server_Room_Aesthetic.png)
 
 ### Core Services
 
@@ -60,7 +62,8 @@ Our commitment to our clients is rooted in our commitment to the Lord. Every eng
 While we serve a diverse range of clients, our heartbeat is to strengthen the hands of those doing Kingdom work. By securing the digital infrastructure of churches, ministries, and mission-critical organizations, we ensure that the proclamation of the Gospel can continue without the hindrance of avoidable compromise.
 
 > "And we prayed to our God and set a guard as a protection against them day and night." 
->
-> ~ Nehemiah 4:9
+> ~ **Nehemiah 4:9**
 
 **Contra Mundum. Code Obscurum. Christ Supreme.**
+
+![Nicene Security Banner](https://www.nicenesecurity.com/assets/img/Introductions/NiceneSecurity_Banner.png)
