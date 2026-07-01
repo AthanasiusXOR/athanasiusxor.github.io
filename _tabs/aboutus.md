@@ -23,9 +23,11 @@ In an industry often characterized by shifting ethics and "Arian" security produ
 We believe that cybersecurity is not a neutral trade, but a moral obligation to protect the people and data entrusted to our care. At Nicene Security, we are putting the **dox** back into **doxology** and the **security** back into **cybersecurity**. Our tradecraft is not merely a service; it is a technical liturgy performed for the glory of the Creator.
 
 ### Theologically Grounded Analysis
+
 We provide a definitive, Christ-centered lens on the digital battlefield. We do not view a network as a series of abstract packets, but as a stewardship of truth. Our analysis of red team engineering and attack surfaces is rooted in the "Ancient Paths," applied with modern precision to ensure your foundations are built upon the Rock.
 
 ### Offensive Theology (The Shrewdness of the Serpent)
+
 We utilize offensive operations—adversary emulation and red teaming—as a **Ministry of Discernment**. By testing the ramparts, we unveil the reality of your architecture. We believe a vulnerability ignored is a falsehood maintained; our "Mini-Apocalypses" provide the clarity necessary for restoration and the preservation of truth in the realm of the Christ.
 
 ---
