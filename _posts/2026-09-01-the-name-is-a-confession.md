@@ -1,7 +1,7 @@
 ---
 title: The Name Is a Confession
 description: Athanasius for the bishop who would not move. XOR for the gate that refuses a middle value. The name is a standard, not a costume.
-date: 2026-10-15 09:00:00 -0600
+date: 2026-09-01 08:00:00 -0600
 tags: [Name, Theology, Athanasius, Orthodoxy]
 categories: [Theology]
 image:

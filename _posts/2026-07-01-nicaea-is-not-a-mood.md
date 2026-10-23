@@ -1,7 +1,7 @@
 ---
 title: Nicaea Is Not a Mood
 description: Homoousios was a fight about substance. The same line divides a defense that holds from a defense that only resembles the real thing.
-date: 2026-09-09 09:00:00 -0600
+date: 2026-07-01 08:00:00 -0600
 tags: [Nicaea, Creed, Theology, Orthodoxy]
 categories: [Theology]
 image:

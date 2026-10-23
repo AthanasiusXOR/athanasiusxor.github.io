@@ -1,7 +1,7 @@
 ---
 title: The New Covenant Is Actually New
 description: Progressive covenantalism is a Reformed Baptist's way of keeping one plan of God, the covenants in their own names, and baptism for those who profess Christ.
-date: 2026-10-23 13:30:00 -0600
+date: 2026-10-01 08:00:00 -0600
 tags: [Covenants, Theology, Baptists, Scripture]
 categories: [Theology]
 image:

@@ -25,10 +25,10 @@ description: >- # used by seo meta and the atom feed
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://www.nicenesecurity.com"
 
-# Posts dated after the build clock are omitted. A date-only value is
-# midnight in `timezone`, so a build earlier that same day drops the post.
-# The July 2026 Pages build ran before this and published an empty home.
-future: false
+# The Reformation essay is dated the morning of October 31, 2026, and stays
+# on the field-post before that day. Every other post is 8:00am Denver on
+# the first of its month. A date-only value is midnight in `timezone`.
+future: true
 
 github:
   username: AthanasiusXOR # change to your GitHub username

@@ -1,7 +1,7 @@
 ---
 title: What a Reformed Baptist Is Doing on October 31
 description: The day falls on a Saturday this year. We keep it for the gospel that was recovered, and we do not dress up as Lutherans to do it.
-date: 2026-10-22 21:00:00 -0600
+date: 2026-10-31 08:00:00 -0600
 tags: [Reformation, Theology, Baptists, Gospel, Justification]
 categories: [Theology]
 image:

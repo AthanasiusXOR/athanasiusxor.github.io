@@ -1,7 +1,7 @@
 ---
 title: Security as Stewardship
 description: What this field-post is for. Five guardrails, a ministry of discernment, and a refusal to treat intrusion as a neutral trade.
-date: 2026-10-01 09:00:00 -0600
+date: 2026-08-01 08:00:00 -0600
 tags: [Stewardship, Practice, Red-Team, Ethics]
 categories: [Practice]
 image:
