@@ -1,0 +1,365 @@
+---
+---
+
+@use 'abstracts/variables' with (
+  $theme: '{{ site.theme_mode }}'
+);
+
+/* prettier-ignore */
+@use 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
+
+/* Nicene Security — parchment, ink, and brass.
+   Overrides Chirpy's default blue-gray after the theme loads. */
+
+@mixin ns-light {
+  --main-bg: #f4efe6;
+  --mask-bg: #cfc6b6;
+  --main-border-color: #e4dccb;
+  --text-color: #3a332b;
+  --text-muted-color: #6f675c;
+  --text-muted-highlight-color: #3a332b;
+  --heading-color: #1e1914;
+  --label-color: #4a433a;
+  --blockquote-border-color: #b08948;
+  --blockquote-text-color: #3f382f;
+  --link-color: #8a4e22;
+  --link-underline-color: #ddc7a2;
+  --button-bg: #faf7f1;
+  --btn-border-color: #e3d9c6;
+  --btn-backtotop-color: #5c5348;
+  --btn-backtotop-border-color: #e3d9c6;
+  --checkbox-checked-color: #8a6424;
+  --sidebar-bg: #ebe4d6;
+  --sidebar-border-color: #ddd3c2;
+  --site-title-color: #6d4e1b;
+  --site-subtitle-color: #5e564b;
+  --sidebar-muted-color: #5c5348;
+  --sidebar-active-color: #1e1914;
+  --sidebar-hover-bg: rgb(176 141 87 / 20%);
+  --sidebar-btn-bg: #f7f3ea;
+  --sidebar-btn-color: #6d6458;
+  --avatar-border-color: #a8843d;
+  --topbar-bg: rgb(244 239 230 / 86%);
+  --topbar-text-color: #3a332b;
+  --search-border-color: #e4dccb;
+  --search-icon-color: #a89880;
+  --input-focus-border-color: #a8843d;
+  --card-bg: #fbf8f2;
+  --card-hover-bg: #efe6d4;
+  --card-shadow: 0 0 0 1px rgb(90 70 30 / 8%);
+  --toc-highlight: #8a5a22;
+  --btn-share-color: #6f675c;
+  --btn-share-hover-color: #8a4e22;
+  --tb-odd-bg: #f7f2e8;
+  --tb-border-color: #e4d9c6;
+  --tag-border: #e0d4c0;
+  --tag-hover: #efe4d0;
+  --search-tag-bg: #f7f2e8;
+  --post-list-text-color: #5c5348;
+  --btn-patinator-text-color: #4a433a;
+  --btn-paginator-hover-color: #efe6d4;
+  --highlight-bg-color: #f6f1e6;
+  --inline-code-bg: rgb(90 60 20 / 8%);
+  --code-color: #2c261f;
+  --menu-bg: #fbf8f2;
+  --menu-border-color: #e3d9c6;
+  --menu-shadow-color: rgb(60 40 10 / 12%);
+  --menu-highlight-bg: rgb(176 141 87 / 16%);
+  --ns-gold: #8a6424;
+  --ns-line: #e0d4be;
+  --ns-mast-bg: #fbf7f0;
+  --ns-quote-bg: rgb(176 141 87 / 12%);
+}
+
+@mixin ns-dark {
+  --main-bg: #12110f;
+  --mask-bg: #2a2723;
+  --main-border-color: #2a261f;
+  --text-color: #d7d0c4;
+  --text-muted-color: #9a9184;
+  --text-muted-highlight-color: #e6dccb;
+  --heading-color: #f4ecdf;
+  --label-color: #cabb9f;
+  --blockquote-border-color: #c6a15b;
+  --blockquote-text-color: #e6dccb;
+  --link-color: #e2c27a;
+  --link-underline-color: #6a5730;
+  --button-bg: #1c1a17;
+  --btn-border-color: #322d26;
+  --btn-backtotop-color: #d7d0c4;
+  --btn-backtotop-border-color: #322d26;
+  --checkbox-checked-color: #e2c27a;
+  --sidebar-bg: #181613;
+  --sidebar-border-color: #2c2822;
+  --site-title-color: #e6cb8c;
+  --site-subtitle-color: #b3a794;
+  --sidebar-muted-color: #b3a794;
+  --sidebar-active-color: #f6efe2;
+  --sidebar-hover-bg: rgb(198 161 91 / 14%);
+  --sidebar-btn-bg: #221f1b;
+  --sidebar-btn-color: #c6b79a;
+  --avatar-border-color: #c6a15b;
+  --topbar-bg: rgb(18 17 15 / 82%);
+  --topbar-text-color: #d7d0c4;
+  --search-border-color: #322d26;
+  --search-icon-color: #8a8072;
+  --input-focus-border-color: #c6a15b;
+  --card-bg: #1b1916;
+  --card-hover-bg: #2a261f;
+  --card-shadow: 0 0 0 1px rgb(198 161 91 / 18%);
+  --toc-highlight: #e2c27a;
+  --btn-share-color: #9a9184;
+  --btn-share-hover-color: #e2c27a;
+  --tb-odd-bg: #1e1b17;
+  --tb-even-bg: #161411;
+  --tb-border-color: #2c2822;
+  --tag-border: #3a342b;
+  --tag-hover: #3a3122;
+  --search-tag-bg: #221f1b;
+  --post-list-text-color: #c9c0b2;
+  --btn-patinator-text-color: #d7d0c4;
+  --btn-paginator-hover-color: #2a261f;
+  --highlight-bg-color: #1a1815;
+  --inline-code-bg: rgb(226 194 122 / 10%);
+  --code-color: #e6dcc8;
+  --menu-bg: #1c1a17;
+  --menu-border-color: #322d26;
+  --menu-shadow-color: rgb(0 0 0 / 45%);
+  --menu-highlight-bg: rgb(198 161 91 / 14%);
+  --ns-gold: #e2c27a;
+  --ns-line: #3a3328;
+  --ns-mast-bg: #171512;
+  --ns-quote-bg: rgb(198 161 91 / 9%);
+}
+
+:root[data-bs-theme="light"] {
+  @include ns-light;
+}
+
+:root[data-bs-theme="dark"] {
+  @include ns-dark;
+}
+
+@media (prefers-color-scheme: light) {
+  :root:not([data-bs-theme]) {
+    @include ns-light;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-bs-theme]) {
+    @include ns-dark;
+  }
+}
+
+body,
+.post-meta,
+.pagination {
+  font-family: "Source Sans 3", "Source Sans Pro", "Segoe UI", sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+#sidebar .site-title,
+#post-list .card-title,
+.dynamic-title {
+  font-family: "Cormorant Garamond", Palatino, "Palatino Linotype", serif;
+}
+
+#sidebar .site-title {
+  font-weight: 600;
+  font-size: 1.95rem;
+  letter-spacing: 0.01em;
+  line-height: 1.02;
+}
+
+#sidebar .site-subtitle {
+  font-family: "Cormorant Garamond", Palatino, serif;
+  font-style: italic;
+  font-size: 1.12rem;
+  line-height: 1.3;
+  font-weight: 500;
+}
+
+#sidebar #avatar {
+  box-shadow:
+    0 0 0 2px var(--avatar-border-color),
+    0 0 0 6px rgb(198 161 91 / 22%);
+}
+
+#sidebar .nav-link span {
+  letter-spacing: 0.08em;
+  font-size: 0.74rem;
+  font-weight: 600;
+}
+
+#sidebar .nav-item.active .nav-link {
+  box-shadow: inset 2px 0 0 var(--ns-gold);
+}
+
+.ns-masthead {
+  margin: 0.35rem 0 0.25rem;
+  border: 1px solid var(--ns-line);
+  border-radius: 16px;
+  overflow: hidden;
+  background: #141311;
+}
+
+.ns-masthead img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 0;
+}
+
+.ns-masthead-copy {
+  padding: 0.95rem 1.2rem 1.1rem;
+  background: var(--ns-mast-bg);
+  border-top: 1px solid var(--ns-line);
+}
+
+.ns-kicker {
+  margin: 0 0 0.3rem;
+  font-family: "Source Sans 3", "Source Sans Pro", sans-serif;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--ns-gold);
+}
+
+.ns-lede {
+  margin: 0;
+  max-width: 40rem;
+  font-family: "Cormorant Garamond", Palatino, serif;
+  font-size: 1.45rem;
+  font-weight: 500;
+  line-height: 1.28;
+  color: var(--heading-color);
+}
+
+#post-list {
+  margin-top: 1.35rem;
+}
+
+#post-list .post-preview {
+  border: 1px solid var(--ns-line);
+  background: var(--card-bg);
+  overflow: hidden;
+}
+
+#post-list .card-title {
+  font-size: 1.7rem !important;
+  font-weight: 600;
+  letter-spacing: 0.005em;
+  line-height: 1.12;
+}
+
+#post-list .card-text.content {
+  font-size: 0.98rem;
+  line-height: 1.5;
+}
+
+.post-desc {
+  font-family: "Cormorant Garamond", Palatino, serif !important;
+  font-style: italic;
+  font-weight: 500 !important;
+  font-size: 1.4rem;
+  line-height: 1.3;
+  color: var(--heading-color);
+}
+
+article header h1 {
+  font-weight: 600;
+  letter-spacing: 0.01em;
+  line-height: 1.08;
+}
+
+main .content {
+  font-size: 1.05rem;
+  line-height: 1.72;
+}
+
+main .content h2,
+main .content h3 {
+  font-weight: 600;
+  letter-spacing: 0.01em;
+}
+
+main .content blockquote {
+  margin: 1.25rem 0;
+  padding: 0.85rem 1.1rem 0.9rem 1.15rem;
+  border-left: 2px solid var(--blockquote-border-color);
+  border-radius: 0 10px 10px 0;
+  background: var(--ns-quote-bg);
+  color: var(--heading-color);
+  font-family: "Cormorant Garamond", Palatino, serif;
+  font-style: italic;
+  font-size: 1.28rem;
+  line-height: 1.4;
+}
+
+main .content blockquote p {
+  margin-bottom: 0.35rem;
+}
+
+main .content img {
+  border-radius: 12px;
+  border: 1px solid var(--ns-line);
+}
+
+main .content table {
+  display: block;
+  width: 100%;
+  overflow-x: auto;
+  border-collapse: collapse;
+  font-size: 0.98rem;
+}
+
+main .content th,
+main .content td {
+  border-bottom: 1px solid var(--ns-line);
+  padding: 0.6rem 0.75rem;
+  vertical-align: top;
+}
+
+main .content th {
+  font-family: "Cormorant Garamond", Palatino, serif;
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: var(--heading-color);
+}
+
+.pin {
+  color: var(--ns-gold);
+}
+
+code,
+kbd,
+samp,
+pre,
+.highlight {
+  font-family: ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace;
+}
+
+@media (max-width: 575.98px) {
+  .ns-lede {
+    font-size: 1.25rem;
+  }
+
+  #post-list .card-title {
+    font-size: 1.45rem !important;
+  }
+
+  #sidebar .site-title {
+    font-size: 1.7rem;
+  }
+}

@@ -37,7 +37,7 @@ The name honors **Athanasius of Alexandria**, the bishop who stood *Contra Mundu
 
 The **XOR** (Exclusive OR) represents the fundamental logic gate of the operator—a reminder that in code, as in theology, there is no "middle way" between truth and falsehood. It is a commitment to the binary reality of the Light and the Dark. I strive for a theological standard in cybersecurity that refuses to drift with the cultural or ethical tides of the industry.
 
-![Athanasius Creed and Code](https://www.nicenesecurity.com/assets/img/Introductions/NiceneSecurity_Banner.png)
+![Athanasius Creed and Code](/assets/img/site/masthead.jpg)
 
 ---
 
@@ -60,4 +60,4 @@ I am here to test the gates, expose the shadows, and point toward the only One w
 
 **Contra Mundum. Code Obscurum. Christ Supreme.**
 
-![Nicene Red Team](https://www.nicenesecurity.com/assets/img/Nicene_Red_Team.png)
+![Nicene Red Team](/assets/img/site/red-team.jpg)

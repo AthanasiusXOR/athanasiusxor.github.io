@@ -14,7 +14,7 @@ order: 1
 
 In an industry often characterized by shifting ethics and "Arian" security products—tools that have the appearance of protection but lack the substance of true resilience—Nicene Security offers a definitive alternative: **Security as Stewardship.**
 
-![Nicene Red Team Emblem](https://www.nicenesecurity.com/assets/img/Nicene_Red_Team.png)
+![Nicene Red Team Emblem](/assets/img/site/red-team.jpg)
 
 ---
 
@@ -36,7 +36,7 @@ We utilize offensive operations—adversary emulation and red teaming—as a **M
 
 Nicene Security provides elite technical services designed to harden the perimeter and mature the internal posture of institutions, ministries, and businesses navigating the silent corridors of the network.
 
-![The Deep Internals](https://www.nicenesecurity.com/assets/img/Introductions/Server_Room_Aesthetic.png)
+![The Deep Internals](/assets/img/site/server-room.jpg)
 
 ### Core Services
 
@@ -68,4 +68,4 @@ While we serve a diverse range of clients, our heartbeat is to strengthen the ha
 
 **Contra Mundum. Code Obscurum. Christ Supreme.**
 
-![Nicene Security Banner](https://www.nicenesecurity.com/assets/img/Introductions/NiceneSecurity_Banner.png)
+![Nicene Security Banner](/assets/img/site/masthead.jpg)

@@ -1,43 +1,53 @@
-# Chirpy Starter
+# Nicene Security
 
-[![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
-[![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
+The field-post of [AthanasiusXOR](https://github.com/AthanasiusXOR): red-team writing held to the Nicene standard. The public site is [nicenesecurity.com](https://www.nicenesecurity.com/), published from the GitHub Pages repository `athanasiusxor.github.io` with the [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) theme.
 
-When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders
-`_data`, `_layouts`, `_includes`, `_sass` and `assets`, as well as a small part of options of the `_config.yml` file
-from the theme's gem. If you have ever installed this theme gem, you can use the command
-`bundle info --path jekyll-theme-chirpy` to locate these files.
+This working copy is the same Chirpy site, brought current so the home page is no longer blank and the visual system matches the seal.
 
-The Jekyll team claims that this is to leave the ball in the user’s court, but this also results in users not being
-able to enjoy the out-of-the-box experience when using feature-rich themes.
+## What was wrong on the live site
 
-To fully use all the features of **Chirpy**, you need to copy the other critical files from the theme's gem to your
-Jekyll site. The following is a list of targets:
+The July 2026 GitHub Pages build ran at 9:40pm Denver time on June 30. The only essay was dated July 1, which Jekyll treats as midnight in `America/Denver`. With `future: false`, that build published the theme and left the post list empty. The epistle URL still 404s until the site is rebuilt.
 
-```shell
-.
-├── _config.yml
-├── _plugins
-├── _tabs
-└── index.html
+A few other deploy leftovers were still visible: the sidebar line “Penetration Testings,” the Chirpy placeholder address `example@domain.com` on the envelope icon, and navigation labels long enough to wrap over themselves.
+
+## Run it locally
+
+You need Ruby 3.2 or newer and Bundler.
+
+```bash
+bundle install
+bundle exec jekyll serve --host 127.0.0.1 --port 8642
 ```
 
-To save you time, and also in case you lose some files while copying, we extract those files/configurations of the
-latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.
+Open [http://127.0.0.1:8642](http://127.0.0.1:8642). Drafts stay hidden unless you add `--drafts`.
 
-## Usage
+`tools/run.sh` is the upstream Chirpy helper and does the same serve without a fixed port.
 
-Check out the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy/wiki).
+## Write an essay
 
-## Contributing
+1. Copy `_drafts/2026-10-22-new-essay.md` to `_posts/YYYY-MM-DD-short-slug.md`.
+2. Set `title`, `description`, `categories`, and `tags`. The description is the card text and the line under the title.
+3. Add an `image` with `path` and `alt`. That file is the card and the picture at the top of the essay. Use a JPEG around 1600 pixels wide; the originals under `assets/img/` are often over two megabytes.
+4. Put a real timestamp in the front matter, in Denver time, earlier than the build. A date with no clock is midnight, and a same-day build before midnight will drop the post again.
 
-This repository is automatically updated with new releases from the theme repository. If you encounter any issues or want to contribute to its improvement, please visit the [theme repository][chirpy] to provide feedback.
+```yaml
+date: 2026-10-22 09:00:00 -0600
+```
 
-## License
+Categories already in use are `Theology` and `Practice`. Pin one charter post with `pin: true`.
 
-This work is published under [MIT][mit] License.
+Public essays stay at judgment, stewardship, and authorized narrative. Live payloads, weaponized proofs, and step-by-step intrusion procedures do not belong on this field-post.
 
-[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
-[chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
-[CD]: https://en.wikipedia.org/wiki/Continuous_deployment
-[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+## Publish
+
+The workflow in `.github/workflows/pages-deploy.yml` builds with Jekyll and deploys to GitHub Pages on every push to `main`. The custom domain is the `CNAME` file, `www.nicenesecurity.com`.
+
+Copy the changes you want into `AthanasiusXOR/athanasiusxor.github.io` and push `main`. Pages will rebuild, and the epistle will finally be on the home page.
+
+Before you restore the envelope icon, put a real address in `_config.yml` under `social.email` and add the email block back to `_data/contact.yml`.
+
+Static CSS and fonts load from the CDN. Self-hosting is off. The theme is pinned to Chirpy `7.6.0`, which is the generation already serving the live favicon and icon set.
+
+## Theme
+
+Color and type live at the bottom of `assets/css/jekyll-theme-chirpy.scss`. Headings are Cormorant Garamond. Body text is Source Sans 3. Light mode is parchment and ink. Dark mode is the stone ground behind the seal. The home masthead is `_layouts/home.html`. Sidebar names for the two about pages are in `_data/locales/en.yml` (`aboutme`, `aboutus`), so the page titles can stay long without wrapping the navigation.
