@@ -11,11 +11,11 @@ image:
 
 A program asks for a library by name. What runs is a library the vendor did not ship. People collapse that into one word. The word is doing too much work. There are two failures, and the repair for one does not close the other.
 
-Hijacking is the wider failure. The program makes a request. The answer that arrives is a different file. The name was a real request. The file is a substitution. The plate at the top is that moment drawn as a chapel. The application sends for a scroll. The scroll that comes back is not the one the house kept.
+Hijacking is the wider failure. The program makes a request. The answer that arrives is a different file. The name was a real request. The file is a substitution. The plate at the top is that moment. The application asks. The file that answers is a different one.
 
 Sideloading is the narrower failure, and it is the one a signature will not catch. A legitimate program, often signed, was written to load a library from beside itself. Someone brings that program and a foreign library together and starts the program. The program does what its author designed. The signature still names the vendor. The library does not.
 
-![A monk draws a scroll from a shelf of trusted books. The scroll is not one of the volumes.](/assets/img/site/dll-sideload.jpg)
+![A haloed monk holds a scroll beside a shelf of books marked Signed Host. The scroll is not one of the volumes.](/assets/img/site/dll-sideload.jpg)
 
 > "Now the promises were made to Abraham and to his offspring. It does not say, 'And to offsprings,' referring to many, but referring to one, 'And to your offspring,' who is Christ."
 > ~ **Galatians 3:16**
