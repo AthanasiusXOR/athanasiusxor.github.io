@@ -6,7 +6,7 @@ tags: [DLLs, Red-Team, Stewardship, Covenants]
 categories: [Practice]
 image:
   path: /assets/img/site/dll-hijack.jpg
-  alt: An application in a stone chapel sends for a scroll, and a corrupted scroll is the one that answers.
+  alt: A chapel labeled Application asks, and the scroll that answers is marked A different file.
 ---
 
 A program asks for a library by name. What runs is a library the vendor did not ship. People collapse that into one word. The word is doing too much work. There are two failures, and the repair for one does not close the other.
