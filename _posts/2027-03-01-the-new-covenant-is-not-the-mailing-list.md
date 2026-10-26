@@ -20,6 +20,8 @@ The stack a church keeps is real work. Someone has to carry the mail, record the
 
 Jeremiah's promise was that they shall all know the Lord, from the least of them to the greatest, because he will forgive their iniquity. The new covenant community is the community of the forgiven. Baptism marks a profession of that forgiveness. The table is for those who are in Christ. Membership, when it is honest, names those people so the church can care for them and, when it must, correct them. A platform does not do that naming. The church does.
 
+![A ring of lamps on the stone, the people who know the Lord.](/assets/img/site/the-flock.jpg)
+
 A mailing list can reach the members. A giving record can tell the truth about money. A counseling file can keep a confidence so a person is not retold in the hallway. A directory can help a deacon find the household that needs bread. These are good servants. They become a counterfeit when the church speaks of them as if they were the people. A list can hold the forgiven, the curious, and the long-gone, and it will not say which is which. Jeremiah will. The font will. The list will say who can be reached.
 
 This field-post has refused a second people running beside Christ. It should refuse a second church running inside the software. The visible church is word, baptism, the table, and the discipline of a congregation that knows its own. The stack is how a few stewards carry mail and money and names. The new covenant is actually new. It is made of persons who know the Lord. Rows that can be exported are a tool those persons may use.

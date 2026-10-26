@@ -24,6 +24,8 @@ The plate at the top holds the two apart. The gold drawing is the word. The rack
 
 The October essay already refused to collapse these words in Scripture. Grace is promised from the garden on. Genesis 3:15 is a promise. Abraham is a promise. David is a promise. What is not yet made, in those centuries, is the new covenant Jeremiah describes. The cup at the table is the making. Christ pours out the covenant in his blood, and Hebrews calls that covenant enacted. A promise kept by being redescribed, until the pictures counted as the supper, would not be the supper.
 
+![A seed still glowing, labeled Promised, and a cup labeled Made.](/assets/img/site/promise-and-cup.jpg)
+
 The technical error is the smaller echo, and it is still an error. A drawing of the estate is a real document. It names an intent, an owner, and a picture of what should be closed. The tenant is the other half of the question. It is the thing that was made. A review that blesses the diagram and never asks what the account contains has treated a promise as a finished act. The drawing was real. It was the word. The house is the other thing.
 
 Drift is the ordinary shape of the gap. Someone changed a path after the review. A door the drawing shut was opened for a weekend and left open. The picture says private, and the private thing answers from the road. The first hour of that gap does not require a villain. It requires two documents kept apart until they agree. A template is a promise of an estate. It becomes an estate when the tenant exists and matches it.

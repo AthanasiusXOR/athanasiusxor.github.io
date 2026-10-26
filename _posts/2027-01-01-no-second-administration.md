@@ -24,6 +24,8 @@ The plate at the top is that arrangement. One console faces the owner. A second 
 
 This field-post has kept the covenants in their own names. The new covenant is a real act of God, and it is not a second people still running beside Christ after the Son has come. There is one mediator between God and men, the man Christ Jesus. The administration is visible. They shall all know the Lord, from the least of them to the greatest. A hidden government beside that knowledge would be another covenant, and another covenant is a smaller Christ.
 
+![One cup on the seat, and a broken path that does not arrive.](/assets/img/site/one-mediator.jpg)
+
 The technical error has the same shape. The console is a true administration. It names the tools the owner chose, the jobs those tools run, and the people allowed to start them. A channel that tasks the same hosts, on a rhythm the console did not set, is another party. An inventory that blesses the approved tools and never asks who else is giving orders has flattened two administrations into one. The tools were real. The party giving the orders was a different party.
 
 Call the second channel command and control and you have named the trade. The name does less work than people think. Management is already a remote task. The failure is a remote task the steward cannot see, issuing work the steward did not authorize. Nehemiah's guard was posted where the wall was. A guard who watches the front gate and never asks about the path behind the house is watching one administration while two are in the house.

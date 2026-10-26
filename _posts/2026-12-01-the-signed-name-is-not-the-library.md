@@ -26,6 +26,8 @@ Sideloading is the narrower failure, and it is the one a signature will not catc
 
 This field-post has already said that the covenants keep their own names. Abraham is not Sinai. Sinai is not the new covenant. The seed is a particular person, not a crowd that wears his name and counts itself as him. The technical error has the same shape.
 
+![One seal for the name, and one cup for the party who receives it.](/assets/img/site/one-name.jpg)
+
 A signed program is a true name. It identifies a vendor, a binary, and a history of who built it. The library that runs under that name is another party. An allow-list that blesses the host and never asks who answered has flattened two parties into one covenant. The name was real. The party that answered was not the party the name was for.
 
 The two failures divide on how the wrong party arrives. Hijacking abuses the request. The program asked, and the answer was swapped. Sideloading brings the true program along and lets it do what it was built to do, which is to trust the library at its side. The host kept its name. That is the point. The name was never the whole covenant.
