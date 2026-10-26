@@ -28,7 +28,7 @@ Open [http://127.0.0.1:8642](http://127.0.0.1:8642). Drafts stay hidden unless y
 1. Copy `_drafts/2026-10-22-new-essay.md` to `_posts/YYYY-MM-DD-short-slug.md`.
 2. Set `title`, `description`, `categories`, and `tags`. The description is the card text and the line under the title.
 3. Add an `image` with `path` and `alt`. That file is the card and the picture at the top of the essay. Use a JPEG around 1600 pixels wide; the originals under `assets/img/` are often over two megabytes.
-4. Put a real timestamp in the front matter, in Denver time, earlier than the build. A date with no clock is midnight, and a same-day build before midnight will drop the post again.
+4. Put a real timestamp in the front matter, in Denver time. A date with no clock is midnight. Posts meant for a later morning stay in `_posts` with `published: false` until that morning. `future: true` keeps the October 31 essay visible, and it would also publish a later post immediately.
 
 ```yaml
 date: 2026-10-22 09:00:00 -0600

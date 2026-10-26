@@ -27,7 +27,9 @@ url: "https://www.nicenesecurity.com"
 
 # The Reformation essay is dated the morning of October 31, 2026, and stays
 # on the field-post before that day. Every other post is 8:00am Denver on
-# the first of its month. A date-only value is midnight in `timezone`.
+# the first of its month. Posts dated after that morning are held with
+# `published: false` until their own morning, because this flag would
+# otherwise publish them early. A date-only value is midnight in `timezone`.
 future: true
 
 github:
