@@ -6,7 +6,9 @@ tags: [DLLs, Red-Team, Stewardship, Covenants]
 categories: [Practice]
 image:
   path: /assets/img/site/dll-hijack.jpg
-  alt: A chapel labeled Application asks, and the scroll that answers is marked A different file.
+  alt: A server labeled Application sends a request, and a different file answers.
+# Held until 8:00am America/Denver on December 1, 2026.
+published: false
 ---
 
 A program asks for a library by name. What runs is a library the vendor did not ship. People collapse that into one word. The word is doing too much work. There are two failures, and the repair for one does not close the other.
@@ -15,7 +17,7 @@ Hijacking is the wider failure. The program makes a request. The answer that arr
 
 Sideloading is the narrower failure, and it is the one a signature will not catch. A legitimate program, often signed, was written to load a library from beside itself. Someone brings that program and a foreign library together and starts the program. The program does what its author designed. The signature still names the vendor. The library does not.
 
-![A haloed monk holds a scroll beside a shelf of books marked Signed Host. The scroll is not one of the volumes.](/assets/img/site/dll-sideload.jpg)
+![A signed host with a gold seal, and a separate board plugged into its side.](/assets/img/site/dll-sideload.jpg)
 
 > "Now the promises were made to Abraham and to his offspring. It does not say, 'And to offsprings,' referring to many, but referring to one, 'And to your offspring,' who is Christ."
 > ~ **Galatians 3:16**
