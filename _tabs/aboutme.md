@@ -20,7 +20,7 @@ The name is a confession before it is a handle. Athanasius of Alexandria stood a
 
 ## What the writing is for
 
-The field-post takes one essay at a time, beginning January 1, 2027. Each essay starts from a doctrine — the being of God, the covenants, the moral law, the church — and asks what that doctrine requires of an operator who tests someone else's house. The essays stay at judgment. They do not publish procedures.
+The field-post takes one essay at a time. The First Epistle is the charter. Each essay starts from a doctrine — the being of God, the covenants, the moral law, the church — and asks what that doctrine requires of an operator who tests someone else's house. The essays stay at judgment. They do not publish procedures.
 
 ## The work
 

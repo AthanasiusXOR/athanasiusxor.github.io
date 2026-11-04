@@ -18,7 +18,7 @@ order: 1
 
 ## What is published here
 
-Essays on Christian doctrine and on the moral shape of offensive security, one at a time. The first returns on the morning of January 1, 2027. They are for operators, defenders, and pastors who need the doctrine and the work in the same paragraph.
+Essays on Christian doctrine and on the moral shape of offensive security, one at a time. The First Epistle is the charter. They are for operators, defenders, and pastors who need the doctrine and the work in the same paragraph.
 
 ## The bounds
 

@@ -1,9 +1,8 @@
 ---
 title: The First Epistle
 description: Who writes this field-post, what Nicene Security is, and what a red-team engagement is under the gospel. An argument in the form of Romans.
-date: 2027-01-01 08:00:00 -0700
+date: 2026-11-04 12:45:00 -0700
 pin: true
-published: false
 tags: [Epistle, Theology, Red-Team, Romans, Doctrine]
 categories: [Theology]
 image:
@@ -210,7 +209,7 @@ I can now say what the name means, because the argument has earned a definition.
 
 Nicene Security is a field-post, and it is a practice, under one confession. The confession is the Nicene faith. The triune God is. The Son is of one being with the Father, begotten not made, and he is the one mediator. The righteousness by which any of us stands is his, received by faith. The law of God binds the hands. The new covenant is new. The church is the people of that covenant, and a network used by that people is part of the shepherd's charge, not a shed behind it.
 
-The field-post is this site. It publishes one essay at a time. This letter is the first, on the morning of January 1, 2027. The essays that follow will take up one doctrine and ask what that doctrine requires of an operator and of a keeper. They will stay at judgment. They will argue. They will not publish procedures, payloads, build notes, or the insides of a client's house. The images are plates for the argument, not diagrams of a method. I would rather a reader disagree with a paragraph than leave with a recipe.
+The field-post is this site. It publishes one essay at a time. This letter is the first. The essays that follow will take up one doctrine and ask what that doctrine requires of an operator and of a keeper. They will stay at judgment. They will argue. They will not publish procedures, payloads, build notes, or the insides of a client's house. The images are plates for the argument, not diagrams of a method. I would rather a reader disagree with a paragraph than leave with a recipe.
 
 The practice is the engagement under the same name. A house asks. The mandate is written. The work is adversary emulation or penetration testing inside that writing, including for churches and ministries when that is the house to be kept. The report is the deliverable. The method is not an essay, and the essay is not a method. What was learned in confidence stays there. The stability of the environment is part of the charge, not a courtesy after the objective. When the charge ends, the access ends. I do not remain as a second administration.
 
