@@ -1,9 +1,8 @@
 ---
 title: The First Epistle
 description: A Christian ethics outpost, opened contra mundum, where orthodox Christianity meets the work of offensive security. The confession stays public. The craft may not.
-date: 2026-12-01 08:00:00 -0700
+date: 2026-11-17 08:00:00 -0700
 pin: true
-published: false
 tags: [Epistle, Theology, Ethics, Red-Team, Orthodoxy]
 categories: [Theology]
 image:
@@ -22,7 +21,7 @@ To the men and women who test other people's houses under a written charge; to t
 
 I am AthanasiusXOR. I am a red team security engineer, and I am a theologian. I hold a Master of Theology from The Southern Baptist Theological Seminary, and I am a doctoral student. I am not an apostle, and I am not a mediator between God and the work. I am a Christian who will not split his mind in two, one half for the creed and one half for the engagement.
 
-This letter is the charter of Nicene Security. It says who I am, what this place is, and how orthodox Christianity governs offensive security without being dissolved into it. The field-post opens with this letter on the morning of December 1, 2026. What follows will come one essay at a time.
+This letter is the charter of Nicene Security. It says who I am, what this place is, and how orthodox Christianity governs offensive security without being dissolved into it. What follows will come one essay at a time.
 
 ### II. Contra mundum
 
@@ -53,6 +52,8 @@ The essays stay at judgment. They will argue about authority, truth, the neighbo
 Here is the sentence I am willing to be known by, and I am going to define it before anyone else spends it.
 
 **Orthodoxy meets obfuscation.**
+
+![A gold cross on a red book, and a shield cut with a cross and triquetra, set in lamplight against rain and a neon city.](/assets/img/site/epistle-orthodoxy.jpg)
 
 Orthodoxy, in the Christian sense, is right belief and the right praise that belongs to it. It is public speech about God. The creed is not a cipher. Nicaea was convened because the church would not leave the identity of the Son in a fog of religious language. The Fathers argued in the open, at length, over a word, because a word about the Son is a word about salvation. Orthodoxy hides nothing that God has revealed. It publishes it, and it guards the publication against the similar.
 

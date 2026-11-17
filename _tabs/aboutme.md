@@ -12,7 +12,9 @@ order: 2
 
 I write as **AthanasiusXOR**. The work is offensive security under authority. The study is theology. I hold a Master of Theology from [The Southern Baptist Theological Seminary](https://www.sbts.edu/), and I am a doctoral student.
 
-The name is a confession before it is a handle. Athanasius of Alexandria stood against the claim that the Son is a high creature. The XOR is that same refusal in another key: a proposition and its denial do not both stand. I do not mean that every engineering choice is a creed. I mean that the person of Christ is not a preference, and that an engagement either has a written mandate or it does not.
+The name is a confession before it is a handle. Athanasius of Alexandria stood *contra mundum* against the claim that the Son is a high creature: like God, and still made. Similar is not the same. The XOR is that refusal in another key. A proposition and its denial do not both stand. I do not mean that every engineering choice is a creed. I mean that the person of Christ is not a preference, and that an engagement either has a written mandate or it does not.
+
+The place I stand is the Council's kind of place. Nicaea was called because the church would not leave the identity of the Son in a fog of religious language. I work in a public square, and in a craft, that prefer the fog. The confession stays public. The method of a test, under a written charge, may be hard to read. That is orthodoxy in the midst of public obfuscation. The creed is not obfuscated in order to travel. The craft is not baptized because the work is obscure.
 
 ![The Nicene Security seal](/assets/img/site/masthead.jpg)
 
@@ -20,7 +22,7 @@ The name is a confession before it is a handle. Athanasius of Alexandria stood a
 
 ## What the writing is for
 
-The field-post is a Christian ethics outpost. It opens on the morning of December 1, 2026, with the First Epistle. After that, one essay at a time: ethics first, then a doctrine brought back to offensive security. The essays stay at judgment. They do not publish procedures. A sentence may travel on X. The argument stays here.
+The field-post is a Christian ethics outpost. The First Epistle is the charter. After it, one essay at a time: ethics first, then a doctrine brought back to offensive security. The essays stay at judgment. They do not publish procedures. A sentence may travel on X. The argument stays here.
 
 ## The work
 
