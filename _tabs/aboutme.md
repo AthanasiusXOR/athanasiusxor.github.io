@@ -20,7 +20,7 @@ The name is a confession before it is a handle. Athanasius of Alexandria stood a
 
 ## What the writing is for
 
-The field-post takes one essay at a time. The First Epistle is the charter. Each essay starts from a doctrine — the being of God, the covenants, the moral law, the church — and asks what that doctrine requires of an operator who tests someone else's house. The essays stay at judgment. They do not publish procedures.
+The field-post is a Christian ethics outpost. It opens on the morning of December 1, 2026, with the First Epistle. After that, one essay at a time: ethics first, then a doctrine brought back to offensive security. The essays stay at judgment. They do not publish procedures. A sentence may travel on X. The argument stays here.
 
 ## The work
 
@@ -33,7 +33,7 @@ An authorized test tells the truth about a boundary. The finding belongs to the 
 - Offensive security as a bounded vocation: adversary emulation, the judgment of a finding, and the return of that finding to the keeper.
 - The moral questions under the work: authority, proportion, the prohibition on doing evil that good may come, and the difference between resembling an adversary and becoming one.
 
-I do not split the confession from the engagement. The method of a test may be quiet. The conduct is not.
+I do not split the confession from the engagement. The method of a test may be quiet. The conduct is not. Orthodoxy meets obfuscation in that order: the creed is public, and the craft, under a written charge, may be hard to read.
 
 **Contra mundum. Christ supreme.**
 

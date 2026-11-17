@@ -10,7 +10,7 @@ order: 1
 
 ---
 
-**Nicene Security** is a field-post. The name is the standard. Nicaea confessed the Son as of one being with the Father, against a Christ who was only like God. That confession is the measure of the writing, and of any work done under the name.
+**Nicene Security** is a Christian ethics outpost, opened *contra mundum*. The name is the standard. Nicaea confessed the Son as of one being with the Father, against a Christ who was only like God. That confession is the measure of the writing, and of any work done under the name. Orthodoxy meets obfuscation here as lord and servant: the creed is said in public, and the craft, under a written charge, may be hard to read.
 
 ![Nicene Red Team Emblem](/assets/img/site/red-team.jpg)
 
@@ -18,7 +18,7 @@ order: 1
 
 ## What is published here
 
-Essays on Christian doctrine and on the moral shape of offensive security, one at a time. The First Epistle is the charter. They are for operators, defenders, and pastors who need the doctrine and the work in the same paragraph.
+Essays on Christian ethics and on the doctrines that judge offensive security, one at a time. The First Epistle opens the outpost on the morning of December 1, 2026. They are for operators, defenders, and pastors who need the doctrine and the work in the same paragraph.
 
 ## The bounds
 
