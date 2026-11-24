@@ -1,7 +1,8 @@
 ---
 title: The Lab Is Not the Word
 description: Red-team infrastructure has to be succinct, authoritative, and fallible. General revelation, special revelation, and the sufficiency of Scripture say why, and where the likeness stops.
-date: 2026-11-24 08:00:00 -0700
+date: 2027-01-01 08:00:00 -0700
+published: false
 tags: [Revelation, Infrastructure, Ethics, Red-Team, Doctrine]
 categories: [Theology]
 image:
