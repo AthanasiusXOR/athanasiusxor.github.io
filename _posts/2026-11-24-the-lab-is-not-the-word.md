@@ -19,7 +19,7 @@ The psalm sets two speeches side by side and refuses to confuse them. The heaven
 
 A testing network is neither speech. It is a made thing: machines, names, routes, and rules, assembled so that an authorized tester can try a house and tell the keeper what the trial showed. This essay is about what that made thing must be, and about the doctrine that judges it. The doctrine is revelation. General revelation, special revelation, and the sufficiency of Scripture. The infrastructure, if it is fit to exist under that doctrine, is succinct, authoritative, and fallible.
 
-I am not going to build it on this page. The First Epistle already set the rule. The field-post stays at judgment. A laboratory, if one is published, belongs in its own repository, under the same bounds as an engagement, for people who already have a charge. This letter is the judgment of what any such laboratory is allowed to claim. The diagram is not the doctrine. The doctrine will not be smuggled in as a diagram.
+I am not going to build it on this page. The First Epistle already set the rule. The field-post stays at judgment. The laboratory is [Geneva](https://github.com/AthanasiusXOR/geneva-ludus), a Ludus range on a host named Wittenberg. It belongs in its own repository, under the same bounds as an engagement, for people who already have a charge. This letter is the judgment of what that laboratory, and any laboratory like it, is allowed to claim. The diagram is not the doctrine. The doctrine will not be smuggled in as a diagram.
 
 ### I. Three words for a made thing
 
@@ -39,7 +39,7 @@ These three stand together. A succinct lab is easier to doubt honestly, because 
 
 They are not a shopping list, and they are not a comparison of providers. Feasibility, cost, and scale are real. They belong to prudence. A charge that a congregation can bear is not the charge a global enterprise can bear, and pretending otherwise is a kind of false witness to the keeper. Prudence asks what the question requires and what the house can sustain without the instrument becoming the life of the house. Prudence does not ask which brand will make the operator look like a state. No provider, and no arrangement of rented machines, turns a lab into revelation. The moral shape is the same in a spare room and in a large estate: succinct, under a warrant, and honest about what it cannot see.
 
-They are also not a permission to publish a method. How a testing network is wired, how a name is made hard to follow, how a channel is kept quiet: those are the craft's recipes. This outpost does not print them. A team that has a written charge can build under that charge. The building is their work. The judgment of the building is the work of this page. If a repository later holds a bounded lab, it will be a different publication from this essay, and it will not be allowed to launder a procedure by standing next to a verse.
+They are also not a permission to publish a method. How a testing network is wired, how a name is made hard to follow, how a channel is kept quiet: those are the craft's recipes. This outpost does not print them. A team that has a written charge can build under that charge. The building is their work. The judgment of the building is the work of this page. Geneva is that other publication. This page will not be turned into its manual, and the repository will not be allowed to launder a procedure by standing next to a verse.
 
 And they are not a claim that infrastructure is holy, or that a clean design is a sanctified design. God is holy. The lab is wood and wire, or their rented equivalents. It can be faithful to a charge. It cannot be set apart as God is set apart.
 
@@ -109,7 +109,15 @@ It expects to be wrong, and it makes the wrongness visible. The negative space i
 
 And it stays on the creature's side of the line Psalm 19 draws. The heavens declare the glory of God, and a lab does not. The law of the Lord is perfect, and a lab is not. The operator who holds both sentences can build a small, warranted, doubtful instrument and then go home. He will not ask the instrument to revive anyone's soul. He will not ask the sky, or the log, to be the rule of his life. He already has the rule. It is sufficient, certain, and infallible, and it was not written by his build.
 
-The repository, when there is one, can hold a lab for those under a charge. It cannot hold a second canon, and this essay will not be turned into the missing page of a manual. If the build cannot be described, to the keeper, as succinct, authoritative, and fallible, it is not yet fit to be called a Christian instrument, however elegantly it runs. If the man who runs it cannot say where Scripture has already spoken about his hands, the elegance is beside the point. The Word was sufficient before the first machine was rented. It remains sufficient when the last one is destroyed.
+### The names on the range
+
+The range is called Geneva. The host is called Wittenberg. The names are a confession before they are a label, and they are easy to spend badly.
+
+Wittenberg is where the questions were nailed to a door in public. Geneva is where a church tried to order its life by the Word it had been given. Neither city was a machine. Naming a range after them does not make the range a church, and it does not make the range's output Scripture. It does say what the builder claims to be doing: a public question, under a known rule, in a made thing that must not replace the rule.
+
+[Geneva](https://github.com/AthanasiusXOR/geneva-ludus) is a Ludus range. It pairs a deliberately vulnerable directory lab, of the kind used for authorized practice, with a testing network kept apart from those targets. The separation is the point this essay cares about. The instrument is not the house. Even when the house was built to be tried, the instrument does not become the rule of the man who tries it. The range can be succinct or baroque. It can sit under a warrant, or it can merely be powered on. It can confess what it did not see, or it can speak with a borrowed accent. The repository does not settle those questions by existing. The doctrine does.
+
+The build stays there. It cannot hold a second canon, and this essay will not be turned into the missing page of its manual. If the range cannot be described, to the keeper, as succinct, authoritative, and fallible, it is not yet fit to be called a Christian instrument, however elegantly it runs. If the man who runs it cannot say where Scripture has already spoken about his hands, the elegance is beside the point. The Word was sufficient before the first machine was rented. It remains sufficient when the last one is destroyed.
 
 **AthanasiusXOR**
 *Red team security engineer and theologian*
