@@ -87,6 +87,8 @@ This is the orthodoxy. It is public, old, and not in my custody to improve. The 
 
 Offensive security, as I mean it here, is the authorized attempt to try a house the way an adversary would try it, so that the keeper learns the truth about the boundary from a friend before he learns it from a thief. Red teaming, adversary emulation, penetration testing: the names differ in scope and in duration. The moral shape is one shape. Someone with the right to bind the house asks. Someone from outside tries. The truth goes back. The access ends.
 
+The laboratory I will show the public is not anyone's house. It is [Geneva](https://github.com/AthanasiusXOR/geneva-ludus), a Ludus range on a host named Wittenberg. It exists so the instrument can be looked at apart from a neighbor's names. The range is a dominion a man may rule. It is not this outpost, and it is not the Word. The essays argue the limits. The repository is where the instrument sits.
+
 That shape is where Christian ethics bites, and it bites in plain duties.
 
 You shall not steal. An access taken without authority is theft, however negligent the keeper was, and however interesting the access is. The skill to enter quietly increases the duty. It does not purchase an exemption. The mandate is a human document under the law of God. It is not the law of God. A client cannot, by signing, turn a cruelty into a stewardship, or command the tester to lie to the client himself.
@@ -109,7 +111,7 @@ The strong bear with the weak. A congregation, a mission house, a clinic, a scho
 
 Ethics is not a preface that the theology then leaves behind. The reason this outpost will not stop at a code of conduct is that the commandments come from the God who is, and the God who is has more to say to an operator than a list of prohibitions. Each later essay will take one theological issue and ask what it requires of the person who tests a house, and of the person who keeps one. The issue will be argued as itself. Then it will be brought back. A doctrine used only as a metaphor for a technique has already been spent.
 
-A few of those returns can be named now, so the program is visible. They are not a calendar, and they are not a promise that the next letter will be the one you prefer. They are the kind of question this place exists to ask.
+A few of those returns can be named now, so the program is visible. They have mornings. On the first of January the essay is the lab, under revelation and the grant of dominion: a testing world a vice-regent may rule, and not the Word. These eight follow, one on the first morning of each month, in the order below. February, the being of God. March, the law. April, sin. May, the person of Christ. June, the covenants. July, the church. August, providence. September, the image of God. Each at eight in the morning, Denver time. A reader who wanted a different one first will still meet each doctrine as itself. The recipe stays in the places that sell recipes.
 
 The being of God returns as a judgment on the lust to see everything. Omniscience is his. A keeper needs visibility the way a steward needs light in a room. The tester who enjoys the gaps as a private kingdom, and who offers the client a counterfeit of the divine sight, has changed stewardship into a parody. Build what the house truly needs. Do not call it omniscience.
 
